@@ -4,17 +4,19 @@
     font-family: 'Exo 2', sans-serif;
 }
 body{
-    background-color: #48D1CC;
+    background-color: #363636;
 }
 img{
     width: 100px;
     height: 100px;
     border-radius: 50px;
+    margin-top: 20px;
 }
 h1{
     text-align: center;
     margin-top: 40px;
     font-size: 40px;
+    color: aliceblue;
 }
 section{
     display: block;
@@ -26,7 +28,7 @@ section{
     width: 300px;
     height: 500px;
     border-radius: 5px;
-    background-color: #40E0D0;
+    background-color: #6495ED;
     box-shadow: -21px 46px 42px -18px black,21px 40px 30px -18px black;
 }
 .listPrincipal{
